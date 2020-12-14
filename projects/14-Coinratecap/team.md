@@ -17,6 +17,8 @@
     14.  NotusualTechDude       @Sam-Devs                      Crypto analyst            No
     15   Humph                  @Humph                         Crypto Analyst            No
     16.  Forence                                               Crypto Writer             No
+    17. Wisdom Ekpot		@Wisdom132		       Database Mgr		 No
+    18. Raghav Dadhwal		@RaghavDadhwal007	       Database Mgr		 No
 		
 
 

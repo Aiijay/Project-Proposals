@@ -17,6 +17,7 @@
     14.  NotusualTechDude       @Sam-Devs                      Crypto analyst            No
     15   Humph                  @Humph                         Crypto Analyst            No
     16.  Forence                                               Crypto Writer             No
+    17.  Damiano Shehaj		@shehaj			       Database Manager		 No
 		
 
 
